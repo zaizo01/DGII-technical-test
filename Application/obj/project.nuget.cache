@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XiC0KQ30E9erQT6Ghg+nxP/m9TvF1RDVEZOcAEGBxa3fLf+BpRCWsFNduenMwoO4aojGr/SxkTiQqNNaTu3djg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zaiz\\Desktop\\DGIITest\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zaiz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
